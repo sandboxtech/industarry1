@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6438312626060427686
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2771929705359649958}
+  - component: {fileID: 5498890567083228597}
+  m_Layer: 0
+  m_Name: Door
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2771929705359649958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6438312626060427686}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5498890567083228597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6438312626060427686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddd60891424556749a674d6c4185a450, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: b36151d6da5ac6f4982a919c0d850895, type: 3}
+  - {fileID: 8300000, guid: 6f1cf6f757cec4d4bb1e27ff3d996b5e, type: 3}
+  - {fileID: 8300000, guid: 5eff230fd369f1144a6b4675feed58b7, type: 3}
+  - {fileID: 8300000, guid: de4ee3d3d0609564c9b6f5e3b962dbc3, type: 3}
+  - {fileID: 8300000, guid: f8c48dfa20a1af747a3b8a7ed637fbd5, type: 3}
+  - {fileID: 8300000, guid: bf15e990eff67e648be38649c02ec323, type: 3}
+  - {fileID: 8300000, guid: da554ef4a97dfb04ca859c0b6fc31cd7, type: 3}
+  - {fileID: 8300000, guid: c7b651e9d4d0e384fa747893e7cdff64, type: 3}
+  - {fileID: 8300000, guid: 77fb5104103f5a848b940da7cbe6e41d, type: 3}
+  - {fileID: 8300000, guid: ba586d1530893aa49a386aef9a13ac54, type: 3}

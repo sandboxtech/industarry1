@@ -1,0 +1,223 @@
+0000-FFFF,10000-1083F,1D100-1D7FF
+
+0000-FFFF,
+10000-1083F,
+1D100-1D7FF
+
+0000	007F	Basic Latin
+0080	00FF	C1 Controls and Latin-1 Supplement
+0100	017F	Latin Extended-A
+0180	024F	Latin Extended-B
+0250	02AF	IPA Extensions
+02B0	02FF	Spacing Modifier Letters
+0300	036F	Combining Diacritical Marks
+0370	03FF	Greek/Coptic
+0400	04FF	Cyrillic
+0500	052F	Cyrillic Supplement
+0530	058F	Armenian
+0590	05FF	Hebrew
+0600	06FF	Arabic
+0700	074F	Syriac
+0750	077F	Undefined
+0780	07BF	Thaana
+07C0	08FF	Undefined
+0900	097F	Devanagari
+0980	09FF	Bengali/Assamese
+0A00	0A7F	Gurmukhi
+0A80	0AFF	Gujarati
+0B00	0B7F	Oriya
+0B80	0BFF	Tamil
+0C00	0C7F	Telugu
+0C80	0CFF	Kannada
+0D00	0DFF	Malayalam
+0D80	0DFF	Sinhala
+0E00	0E7F	Thai
+0E80	0EFF	Lao
+0F00	0FFF	Tibetan
+1000	109F	Myanmar
+10A0	10FF	Georgian
+1100	11FF	Hangul Jamo
+1200	137F	Ethiopic
+1380	139F	Undefined
+13A0	13FF	Cherokee
+1400	167F	Unified Canadian Aboriginal Syllabics
+1680	169F	Ogham
+16A0	16FF	Runic
+1700	171F	Tagalog
+1720	173F	Hanunoo
+1740	175F	Buhid
+1760	177F	Tagbanwa
+1780	17FF	Khmer
+1800	18AF	Mongolian
+18B0	18FF	Undefined
+1900	194F	Limbu
+1950	197F	Tai Le
+1980	19DF	Undefined
+19E0	19FF	Khmer Symbols
+1A00	1CFF	Undefined
+1D00	1D7F	Phonetic Extensions
+1D80	1DFF	Undefined
+1E00	1EFF	Latin Extended Additional
+1F00	1FFF	Greek Extended
+2000	206F	General Punctuation
+2070	209F	Superscripts and Subscripts
+20A0	20CF	Currency Symbols
+20D0	20FF	Combining Diacritical Marks for Symbols
+2100	214F	Letterlike Symbols
+2150	218F	Number Forms
+2190	21FF	Arrows
+2200	22FF	Mathematical Operators
+2300	23FF	Miscellaneous Technical
+2400	243F	Control Pictures
+2440	245F	Optical Character Recognition
+2460	24FF	Enclosed Alphanumerics
+2500	257F	Box Drawing
+2580	259F	Block Elements
+25A0	25FF	Geometric Shapes
+2600	26FF	Miscellaneous Symbols
+2700	27BF	Dingbats
+27C0	27EF	Miscellaneous Mathematical Symbols-A
+27F0	27FF	Supplemental Arrows-A
+2800	28FF	Braille Patterns
+2900	297F	Supplemental Arrows-B
+2980	29FF	Miscellaneous Mathematical Symbols-B
+2A00	2AFF	Supplemental Mathematical Operators
+2B00	2BFF	Miscellaneous Symbols and Arrows
+2C00	2E7F	Undefined
+2E80	2EFF	CJK Radicals Supplement
+2F00	2FDF	Kangxi Radicals
+2FE0	2EEF	Undefined
+2FF0	2FFF	Ideographic Description Characters
+3000	303F	CJK Symbols and Punctuation
+3040	309F	Hiragana
+30A0	30FF	Katakana
+3100	312F	Bopomofo
+3130	318F	Hangul Compatibility Jamo
+3190	319F	Kanbun (Kunten)
+31A0	31BF	Bopomofo Extended
+31C0	31EF	Undefined
+31F0	31FF	Katakana Phonetic Extensions
+3200	32FF	Enclosed CJK Letters and Months
+3300	33FF	CJK Compatibility
+3400	4DBF	CJK Unified Ideographs Extension A
+4DC0	4DFF	Yijing Hexagram Symbols
+4E00	9FAF	CJK Unified Ideographs
+9FB0	9FFF	Undefined
+A000	A48F	Yi Syllables
+A490	A4CF	Yi Radicals
+A4D0	ABFF	Undefined
+AC00	D7AF	Hangul Syllables
+D7B0	D7FF	Undefined
+D800	DBFF	High Surrogate Area
+DC00	DFFF	Low Surrogate Area
+E000	F8FF	Private Use Area
+F900	FAFF	CJK Compatibility Ideographs
+FB00	FB4F	Alphabetic Presentation Forms
+FB50	FDFF	Arabic Presentation Forms-A
+FE00	FE0F	Variation Selectors
+FE10	FE1F	Undefined
+FE20	FE2F	Combining Half Marks
+FE30	FE4F	CJK Compatibility Forms
+FE50	FE6F	Small Form Variants
+FE70	FEFF	Arabic Presentation Forms-B
+FF00	FFEF	Halfwidth and Fullwidth Forms
+FFF0	FFFF	Specials
+10000	1007F	Linear B Syllabary
+10080	100FF	Linear B Ideograms
+10100	1013F	Aegean Numbers
+10140	102FF	Undefined
+10300	1032F	Old Italic
+10330	1034F	Gothic
+10380	1039F	Ugaritic
+10400	1044F	Deseret
+10450	1047F	Shavian
+10480	104AF	Osmanya
+104B0	107FF	Undefined
+10800	1083F	Cypriot Syllabary
+10840	1CFFF	Undefined
+1D000	1D0FF	Byzantine Musical Symbols
+1D100	1D1FF	Musical Symbols
+1D200	1D2FF	Undefined
+1D300	1D35F	Tai Xuan Jing Symbols
+1D360	1D3FF	Undefined
+1D400	1D7FF	Mathematical Alphanumeric Symbols
+1D800	1FFFF	Undefined
+20000	2A6DF	CJK Unified Ideographs Extension B
+2A6E0	2F7FF	Undefined
+2F800	2FA1F	CJK Compatibility Ideographs Supplement
+2FAB0	DFFFF	Unused
+E0000	E007F	Tags
+E0080	E00FF	Unused
+E0100	E01EF	Variation Selectors Supplement
+E01F0	EFFFF	Unused
+F0000	FFFFD	Supplementary Private Use Area-A
+FFFFE	FFFFF	Unused
+100000	10FFFD	Supplementary Private Use Area-B
+
+
+
+
+
+
+0020 — 007F  	Basic Latin	 	2580 — 259F  	Block Elements
+00A0 — 00FF  	Latin-1 Supplement	 	25A0 — 25FF  	Geometric Shapes
+0100 — 017F  	Latin Extended-A	 	2600 — 26FF  	Miscellaneous Symbols
+0180 — 024F  	Latin Extended-B	 	2700 — 27BF  	Dingbats
+0250 — 02AF  	IPA Extensions	 	27C0 — 27EF  	Miscellaneous Mathematical Symbols-A
+02B0 — 02FF  	Spacing Modifier Letters	 	27F0 — 27FF  	Supplemental Arrows-A
+0300 — 036F  	Combining Diacritical Marks	 	2800 — 28FF  	Braille Patterns
+0370 — 03FF  	Greek and Coptic	 	2900 — 297F  	Supplemental Arrows-B
+0400 — 04FF  	Cyrillic	 	2980 — 29FF  	Miscellaneous Mathematical Symbols-B
+0500 — 052F  	Cyrillic Supplementary	 	2A00 — 2AFF  	Supplemental Mathematical Operators
+0530 — 058F  	Armenian	 	2B00 — 2BFF  	Miscellaneous Symbols and Arrows
+0590 — 05FF  	Hebrew	 	2E80 — 2EFF  	CJK Radicals Supplement
+0600 — 06FF  	Arabic	 	2F00 — 2FDF  	Kangxi Radicals
+0700 — 074F  	Syriac	 	2FF0 — 2FFF  	Ideographic Description Characters
+0780 — 07BF  	Thaana	 	3000 — 303F  	CJK Symbols and Punctuation
+0900 — 097F  	Devanagari	 	3040 — 309F  	Hiragana
+0980 — 09FF  	Bengali	 	30A0 — 30FF  	Katakana
+0A00 — 0A7F  	Gurmukhi	 	3100 — 312F  	Bopomofo
+0A80 — 0AFF  	Gujarati	 	3130 — 318F  	Hangul Compatibility Jamo
+0B00 — 0B7F  	Oriya	 	3190 — 319F  	Kanbun
+0B80 — 0BFF  	Tamil	 	31A0 — 31BF  	Bopomofo Extended
+0C00 — 0C7F  	Telugu	 	31F0 — 31FF  	Katakana Phonetic Extensions
+0C80 — 0CFF  	Kannada	 	3200 — 32FF  	Enclosed CJK Letters and Months
+0D00 — 0D7F  	Malayalam	 	3300 — 33FF  	CJK Compatibility
+0D80 — 0DFF  	Sinhala	 	3400 — 4DBF  	CJK Unified Ideographs Extension A
+0E00 — 0E7F  	Thai	 	4DC0 — 4DFF  	Yijing Hexagram Symbols
+0E80 — 0EFF  	Lao	 	4E00 — 9FFF  	CJK Unified Ideographs
+0F00 — 0FFF  	Tibetan	 	A000 — A48F  	Yi Syllables
+1000 — 109F  	Myanmar	 	A490 — A4CF  	Yi Radicals
+10A0 — 10FF  	Georgian	 	AC00 — D7AF  	Hangul Syllables
+1100 — 11FF  	Hangul Jamo	 	D800 — DB7F  	High Surrogates
+1200 — 137F  	Ethiopic	 	DB80 — DBFF  	High Private Use Surrogates
+13A0 — 13FF  	Cherokee	 	DC00 — DFFF  	Low Surrogates
+1400 — 167F  	Unified Canadian Aboriginal Syllabics	 	E000 — F8FF  	Private Use Area
+1680 — 169F  	Ogham	 	F900 — FAFF  	CJK Compatibility Ideographs
+16A0 — 16FF  	Runic	 	FB00 — FB4F  	Alphabetic Presentation Forms
+1700 — 171F  	Tagalog	 	FB50 — FDFF  	Arabic Presentation Forms-A
+1720 — 173F  	Hanunoo	 	FE00 — FE0F  	Variation Selectors
+1740 — 175F  	Buhid	 	FE20 — FE2F  	Combining Half Marks
+1760 — 177F  	Tagbanwa	 	FE30 — FE4F  	CJK Compatibility Forms
+1780 — 17FF  	Khmer	 	FE50 — FE6F  	Small Form Variants
+1800 — 18AF  	Mongolian	 	FE70 — FEFF  	Arabic Presentation Forms-B
+1900 — 194F  	Limbu	 	FF00 — FFEF  	Halfwidth and Fullwidth Forms
+1950 — 197F  	Tai Le	 	FFF0 — FFFF  	Specials
+19E0 — 19FF  	Khmer Symbols	 	10000 — 1007F  	Linear B Syllabary
+1D00 — 1D7F  	Phonetic Extensions	 	10080 — 100FF  	Linear B Ideograms
+1E00 — 1EFF  	Latin Extended Additional	 	10100 — 1013F  	Aegean Numbers
+1F00 — 1FFF  	Greek Extended	 	10300 — 1032F  	Old Italic
+2000 — 206F  	General Punctuation	 	10330 — 1034F  	Gothic
+2070 — 209F  	Superscripts and Subscripts	 	10380 — 1039F  	Ugaritic
+20A0 — 20CF  	Currency Symbols	 	10400 — 1044F  	Deseret
+20D0 — 20FF  	Combining Diacritical Marks for Symbols	 	10450 — 1047F  	Shavian
+2100 — 214F  	Letterlike Symbols	 	10480 — 104AF  	Osmanya
+2150 — 218F  	Number Forms	 	10800 — 1083F  	Cypriot Syllabary
+2190 — 21FF  	Arrows	 	1D000 — 1D0FF  	Byzantine Musical Symbols
+2200 — 22FF  	Mathematical Operators	 	1D100 — 1D1FF  	Musical Symbols
+2300 — 23FF  	Miscellaneous Technical	 	1D300 — 1D35F  	Tai Xuan Jing Symbols
+2400 — 243F  	Control Pictures	 	1D400 — 1D7FF  	Mathematical Alphanumeric Symbols
+2440 — 245F  	Optical Character Recognition	 	20000 — 2A6DF  	CJK Unified Ideographs Extension B
+2460 — 24FF  	Enclosed Alphanumerics	 	2F800 — 2FA1F  	CJK Compatibility Ideographs Supplement
+2500 — 257F  	Box Drawing	 	E0000 — E007F  	Tags
+
